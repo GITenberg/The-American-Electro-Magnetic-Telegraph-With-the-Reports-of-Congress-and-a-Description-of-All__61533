@@ -1,11 +1,16 @@
 _repo: The-American-Electro-Magnetic-Telegraph-With-the-Reports-of-Congress-and-a-Description-of-All__61533
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61533-h/images/cover.jpg
 creator:
   author:
     agent_name: Vail, Alfred
     gutenberg_agent_id: '51478'
     url: http://www.gutenberg.org/2009/agents/51478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61533#The-American-Electro-Magnetic-Telegraph-With-the-Reports-of-Congress-and-a-Description-of-All_
 gutenberg_issued: '2020-02-29'
 gutenberg_type: Text
 identifiers:
